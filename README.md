@@ -1,6 +1,6 @@
 Proposal: Graph Creator and Color Analysis for PDE
 ======
-
+email:justalittlenoob@foxmail.com
 ##Functional Picture
 
 ###Picture 1  
@@ -86,7 +86,7 @@ the second prize of China Undergraduate Mathematical Contest in Modeling. I beli
 knowledge and experience, I'll be competent for this project.
 
 I like Processing, and I've made some projects with it. You can find them in the reference below.
-Should you have any questions or concerns, please do not hesitate to contact me : justalittlenoob[dot]foxmail[dot]com
+Should you have any questions or concerns, please do not hesitate to contact me : justalittlenoob[at]foxmail[dot]com
 
 ##Reference (my projects)
 
