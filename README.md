@@ -1,16 +1,21 @@
 Proposal: Graph Creator and Color Analysis for PDE
+======
 
-Functional Picture
+##Functional Picture
 
-Picture 1https://github.com/justalittlenoob/GSoC-2015/blob/master/pic/picture1.png
+###Picture 1  
+![Picture 1](https://github.com/justalittlenoob/GSoC-2015/blob/master/pic/picture1.png)
 
-Picture 2https://github.com/justalittlenoob/GSoC-2015/blob/master/pic/picture2.png
+###Picture 2  
+![Picture 2](https://github.com/justalittlenoob/GSoC-2015/blob/master/pic/picture2.png)
 
-Picture 3https://github.com/justalittlenoob/GSoC-2015/blob/master/pic/picture3.png
+###Picture 3  
+![Picture 3](https://github.com/justalittlenoob/GSoC-2015/blob/master/pic/picture3.png)
 
-Picture 4https://github.com/justalittlenoob/GSoC-2015/blob/master/pic/picture4.png
+###Picture 4  
+![Picture 4](https://github.com/justalittlenoob/GSoC-2015/blob/master/pic/picture4.png)
 
-Functional description
+##Functional description
 
 (1).Add text to the canvas.
 
@@ -50,7 +55,7 @@ Functional description
 
 Picture 2 shows the assignment of functions on the mouse. As default, the left mouse button is used for select and drag objects on the canvas, the mouse wheel is used for zoom in and zoom out, and the right mouse button will pop-up a context menu, which contains functions such as cut, copy, paste and delete.
 
-Benefits
+##Benefits
 
 When facing with design tasks, designers often have to create everything from scratch, engage in lots
 of unnecessary repeated labor, and dive into every detail whether it deserves or not. These works 
@@ -65,7 +70,8 @@ manually choose appropriate colors to determine the basic palette of an existing
 they want to draw pictures or render scenes. The generated color palettes can be exported as *.aco file, 
 and different palettes can be shared between my tool and other designer apps such as photoshop, simply 
 by providing the *.aco file, which is also very convenient.
-About me
+
+##About me
 
 My name is PengFei Zhao, and my IRC is 'justalittlenoob'. I'm a second year graduate student from 
 Beijing University of Technology, majored in software engineering. My time zone is GMT+8.
@@ -82,7 +88,7 @@ knowledge and experience, I'll be competent for this project.
 I like Processing, and I've made some projects with it. You can find them in the reference below.
 Should you have any questions or concerns, please do not hesitate to contact me : justalittlenoob[dot]foxmail[dot]com
 
-Reference (my projects)
+##Reference (my projects)
 
 Windows 8 metro project: https://github.com/justalittlenoob/Win8-project
 Processing project: https://github.com/justalittlenoob/ProcessingDemo
